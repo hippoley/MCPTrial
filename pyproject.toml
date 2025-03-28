@@ -1,11 +1,11 @@
 [project]
 name = "mcp-getting-started"
 version = "0.1.0"
-description = "Add your description here"
-readme = "README.md"
-requires-python = ">=3.12"
+description = "Getting started with MCP"
+authors = []
 dependencies = [
-    "httpx>=0.28.1",
-    "mcp[cli]>=1.6.0",
-    "openai>=1.69.0",
+    "mcp>=0.4",
+    "openai>=1.0.0",
+    "python-dotenv>=1.0.0",
 ]
+readme = "README.md"
