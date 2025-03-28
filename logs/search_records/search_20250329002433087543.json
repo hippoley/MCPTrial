@@ -1,0 +1,18 @@
+{
+  "request_id": "20250329002433087543",
+  "timestamp": "2025-03-29T00:24:33.100561",
+  "query": "帮我搜现在北京时间几点钟\n",
+  "metrics": {
+    "start_time": 1743179073.0875437,
+    "api_call_time": 1.6771447658538818,
+    "total_time": 2.861520767211914
+  },
+  "status": "success",
+  "result": "",
+  "error": null,
+  "raw_response_status": "success",
+  "result_stats": {
+    "choices_count": 1,
+    "results_found": 0
+  }
+}
